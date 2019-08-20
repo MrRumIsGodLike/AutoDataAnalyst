@@ -1,2 +1,2 @@
 # AutoDataAnalyst
-This repository created for my first research in Hyerparameter Optimization problem
+This repository created for my first research in Hyperparameter Optimization problem
