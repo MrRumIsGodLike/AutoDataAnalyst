@@ -1,0 +1,4 @@
+MyValidate_time文件夹用于存储实验结果的CSV表格,具体说明如下:
+test1:不加预测网络 不使用数据引导池 PPO iris数据集
+test2:不加预测网络 使用数据引导池 PPO image_segmentation数据集
+test3:加预测网络 不使用数据引导池 PPO image_segmentation数据集

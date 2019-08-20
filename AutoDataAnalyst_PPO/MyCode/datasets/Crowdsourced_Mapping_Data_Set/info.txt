@@ -1,0 +1,11 @@
+数据源：http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping
+在XGBoost的accuracy:56.8%
+在RF的accuracy:
+
+training.csv文件包含用于分类的训练数据。不要使用此文件来评估分类准确性，因为它包含噪音（许多类别标签错误）。 
+testing.csv文件包含测试数据以评估分类的准确性。该文件不包含任何类标签错误。 
+属性信息：
+类：土地覆盖类（不渗透，农场，森林，草地，果园，水）[注：这是分类的目标变量]。 
+max_ndvi：从卫星图像的时间序列中导出的最大NDVI（归一化差异植被指数）值。 
+20150720_N - 20140101_N：按照反向时间顺序（日期格式为yyyymmdd）从2014年1月至2015年7月获取的卫星图像中提取的NDVI值。 
+
