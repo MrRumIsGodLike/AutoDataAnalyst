@@ -14,14 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="t_main_meta_diff.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="t_main_meta_diff.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="391">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
                 <element signature="e#15#38#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GitTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyCode/GitTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -96,14 +105,15 @@
         <option value="$PROJECT_DIR$/MyCode/t_main_pre.py" />
         <option value="$PROJECT_DIR$/MyCode/t_main_no_meta_diff.py" />
         <option value="$PROJECT_DIR$/MyCode/t_main_meta_diff.py" />
+        <option value="$PROJECT_DIR$/MyCode/GitTest.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-33" />
-    <option name="y" value="209" />
-    <option name="width" value="1843" />
-    <option name="height" value="952" />
+    <option name="x" value="-34" />
+    <option name="y" value="208" />
+    <option name="width" value="1844" />
+    <option name="height" value="953" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -136,7 +146,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -302,19 +312,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="-11" width="1859" height="1092" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986361" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23712021" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914045" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4077568" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4077568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27672955" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4067086" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -340,6 +350,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4224">
@@ -382,13 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/RL/RL/venv/lib/python3.5/site-packages/pandas/io/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="401" column="47" lean-forward="true" selection-start-line="401" selection-start-column="47" selection-end-line="401" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/RL/RL/venv/lib/python3.5/site-packages/pandas/io/common.py" />
     <entry file="file://$PROJECT_DIR$/MyCode/test_part1_compare_rfc_preSpace.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-330">
@@ -485,14 +499,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/RL/RL/venv/lib/python3.5/site-packages/numpy/core/shape_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="287" selection-start-line="287" selection-end-line="287" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Pen_Recognition_Handwritten/testing.CSV" />
+    <entry file="file://$USER_HOME$/RL/RL/venv/lib/python3.5/site-packages/numpy/core/shape_base.py" />
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Pen_Recognition_Handwritten/testing.csv" />
     <entry file="file://$PROJECT_DIR$/MyCode/datasets/Crowdsourced_Mapping_Data_Set/testing.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -662,11 +670,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="391">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
             <element signature="e#15#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/GitTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
