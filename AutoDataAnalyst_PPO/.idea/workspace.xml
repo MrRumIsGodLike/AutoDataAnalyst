@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/MyCode/MetaFeatureExtractor.py" line="156" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8ef06bf-5e4a-43b5-be9b-4c9e2d8518cb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="t_main_meta_diff.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="e#15#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>y_</find>
+      <find>agr_params_file_name</find>
+      <find>init_input</find>
+      <find>top_agr_params</find>
+      <find>input_param</find>
+      <find>params</find>
+      <find>nnet_param_file</find>
+      <find>self.y</find>
+      <find>self.y_</find>
+      <find>[</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyCode/Trainer.py" />
+        <option value="$PROJECT_DIR$/MyCode/test_part1_compare_rfc_preSpace.py" />
+        <option value="$PROJECT_DIR$/MyCode/test_compara.py" />
+        <option value="$PROJECT_DIR$/MyCode/CMAES.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_compared_test_gp.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_compared_test_rand.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_compared_test_tpe.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_bp_pre_test.py" />
+        <option value="$PROJECT_DIR$/MyCode/configFile/AgentConfigFile.py" />
+        <option value="$PROJECT_DIR$/MyCode/utils/RandomForestCliper.py" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test2/plot_time_data.csv" />
+        <option value="$USER_HOME$/RL/RL/venv/lib/python3.5/site-packages/pandas/io/common.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_bp.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_1.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_bp_pre.py" />
+        <option value="$PROJECT_DIR$/MyCode/DataManager.py" />
+        <option value="$PROJECT_DIR$/MyValidate_time/ps" />
+        <option value="$PROJECT_DIR$/MyCode/Mylog/ps" />
+        <option value="$PROJECT_DIR$/MyCode/read_data.py" />
+        <option value="$PROJECT_DIR$/MyCode/EnvironmentManager.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_Agent_1.py" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/img_sample.txt" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/wilt_sample.txt" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/wilt_sample.csv" />
+        <option value="$PROJECT_DIR$/MyCode/test.py" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta2/nnet_param.txt" />
+        <option value="$PROJECT_DIR$/MyCode/configFile/MainConfigureFile.py" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/crowdsourced_sample.csv" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/img_sample.csv" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/pr_sample.csv" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta2/plot_time_data.csv" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/optdigits_sample.csv" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_meta.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_no_meta.py" />
+        <option value="$PROJECT_DIR$/MyCode/NNet.py" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta2-no/nnet_param.txt" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta/nnet_param.txt" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta/plot_time_data.csv" />
+        <option value="$PROJECT_DIR$/MyCode/MetaFeatureExtractor.py" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/agr_sample.csv" />
+        <option value="$PROJECT_DIR$/MyValidate_time/test-meta3/action_sample.csv" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_pre.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_no_meta_diff.py" />
+        <option value="$PROJECT_DIR$/MyCode/t_main_meta_diff.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-33" />
+    <option name="y" value="209" />
+    <option name="width" value="1843" />
+    <option name="height" value="952" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutoDataAnalyst_PPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoDataAnalyst_PPO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoDataAnalyst_PPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoDataAnalyst_PPO" type="462c0819:PsiDirectoryNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoDataAnalyst_PPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoDataAnalyst_PPO" type="462c0819:PsiDirectoryNode" />
+              <item name="MyValidate_time" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyCode/Mylog/test-meta4-no/10steps_90sample_ex2" />
+      <recent name="$PROJECT_DIR$/MyCode/Mylog/test-meta3-no/50steps" />
+      <recent name="$PROJECT_DIR$/MyCode/Mylog/normal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyValidate_time/test-meta2-no" />
+      <recent name="$PROJECT_DIR$/MyValidate_time/test-meta3" />
+      <recent name="$PROJECT_DIR$/MyValidate_time/test-meta2" />
+      <recent name="$PROJECT_DIR$/MyValidate_time/test-meta" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.t_main_meta_diff">
+    <configuration name="MetaFeatureExtractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoDataAnalyst_PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyCode/MetaFeatureExtractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="t_main_meta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoDataAnalyst_PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyCode/t_main_meta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="t_main_meta_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoDataAnalyst_PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyCode/t_main_meta_diff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="t_main_no_meta_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoDataAnalyst_PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyCode/t_main_no_meta_diff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="t_main_pre" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoDataAnalyst_PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyCode/t_main_pre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.t_main_pre" />
+      <item itemvalue="Python.MetaFeatureExtractor" />
+      <item itemvalue="Python.t_main_meta" />
+      <item itemvalue="Python.t_main_meta_diff" />
+      <item itemvalue="Python.t_main_no_meta_diff" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.t_main_meta_diff" />
+        <item itemvalue="Python.t_main_no_meta_diff" />
+        <item itemvalue="Python.t_main_pre" />
+        <item itemvalue="Python.MetaFeatureExtractor" />
+        <item itemvalue="Python.t_main_meta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ef06bf-5e4a-43b5-be9b-4c9e2d8518cb" name="Default" comment="" />
+      <created>1563860039012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563860039012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_for_Trainer_test - 2019.07.23 at 14h 44m 06s.xml">
+      <configuration name="Nosetests for Trainer.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_DataManager_test - 2019.07.24 at 09h 00m 10s.xml">
+      <configuration name="Nosetests for DataManager.test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="62" y="-11" width="1859" height="1092" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986361" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914045" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32914045" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4077568" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27672955" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4067086" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914045" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="56" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4224">
+          <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_pre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" column="31" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_no_meta_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="52" column="61" lean-forward="true" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="102" column="56" lean-forward="true" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate_time/params_data_agent(chen)/test8/plot_time_data.csv" />
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/test1/plot_time_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RL/RL/venv/lib/python3.5/site-packages/pandas/io/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="401" column="47" lean-forward="true" selection-start-line="401" selection-start-column="47" selection-end-line="401" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/test_part1_compare_rfc_preSpace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_compared_test_gp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1102">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/test_compara.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1644">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_bp_pre_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_bp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/Mylog/ps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate_time/params_data_agent(chen)/test1/nnet_param.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/Trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Image_Segmentation/testing.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Wilt/testing.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/ps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/test3/plot_time_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2332">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RL/RL/venv/lib/python3.5/site-packages/numpy/core/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Pen_Recognition_Handwritten/testing.CSV" />
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Crowdsourced_Mapping_Data_Set/testing.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Crowdsourced_Mapping_Data_Set/training.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="93" lean-forward="true" selection-start-line="1" selection-start-column="93" selection-end-line="1" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Pen_Recognition_Handwritten/testing.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="334" lean-forward="true" selection-start-line="334" selection-end-line="334" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/datasets/Image_Segmentation/training.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_bp_pre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_no_meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/test-meta3/crowdsourced_sample.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="799" column="117" selection-start-line="799" selection-start-column="117" selection-end-line="799" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/EnvironmentManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/configFile/ClassificationAlgorithmConfigureFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/test-meta3/optdigits_sample.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="799" column="116" lean-forward="true" selection-start-line="799" selection-start-column="116" selection-end-line="799" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_Agent_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="214" selection-start-line="214" selection-end-line="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/utils/RandomForestCliper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/test-meta3/img_sample.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="799" column="116" selection-start-line="799" selection-start-column="116" selection-end-line="799" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/test-meta3/pr_sample.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="799" column="113" lean-forward="true" selection-start-line="799" selection-start-column="113" selection-end-line="799" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/configFile/MainConfigureFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/DataManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="140" column="46" selection-start-line="140" selection-start-column="46" selection-end-line="140" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyValidate_time/test-meta3/agr_sample.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/NNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5478">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_no_meta_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_pre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="118" column="31" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/MetaFeatureExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="164" column="32" selection-start-line="164" selection-start-column="32" selection-end-line="164" selection-end-column="32" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/t_main_meta_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
